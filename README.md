@@ -1,2 +1,2 @@
 # Supervised-Learning
-Prediction Models with their examples.
+Predictive Models with their examples.
